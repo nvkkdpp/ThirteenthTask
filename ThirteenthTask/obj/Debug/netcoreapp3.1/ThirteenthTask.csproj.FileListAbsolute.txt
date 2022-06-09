@@ -1,0 +1,14 @@
+C:\Users\Илья\source\repos\ThirteenthTask\ThirteenthTask\obj\Debug\netcoreapp3.1\ThirteenthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\source\repos\ThirteenthTask\ThirteenthTask\obj\Debug\netcoreapp3.1\ThirteenthTask.AssemblyInfoInputs.cache
+C:\Users\Илья\source\repos\ThirteenthTask\ThirteenthTask\obj\Debug\netcoreapp3.1\ThirteenthTask.AssemblyInfo.cs
+C:\Users\Илья\source\repos\ThirteenthTask\ThirteenthTask\obj\Debug\netcoreapp3.1\ThirteenthTask.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\ThirteenthTask\ThirteenthTask\bin\Debug\netcoreapp3.1\ThirteenthTask.exe
+C:\Users\Илья\source\repos\ThirteenthTask\ThirteenthTask\bin\Debug\netcoreapp3.1\ThirteenthTask.deps.json
+C:\Users\Илья\source\repos\ThirteenthTask\ThirteenthTask\bin\Debug\netcoreapp3.1\ThirteenthTask.runtimeconfig.json
+C:\Users\Илья\source\repos\ThirteenthTask\ThirteenthTask\bin\Debug\netcoreapp3.1\ThirteenthTask.runtimeconfig.dev.json
+C:\Users\Илья\source\repos\ThirteenthTask\ThirteenthTask\bin\Debug\netcoreapp3.1\ThirteenthTask.dll
+C:\Users\Илья\source\repos\ThirteenthTask\ThirteenthTask\bin\Debug\netcoreapp3.1\ThirteenthTask.pdb
+C:\Users\Илья\source\repos\ThirteenthTask\ThirteenthTask\obj\Debug\netcoreapp3.1\ThirteenthTask.dll
+C:\Users\Илья\source\repos\ThirteenthTask\ThirteenthTask\obj\Debug\netcoreapp3.1\ThirteenthTask.pdb
+C:\Users\Илья\source\repos\ThirteenthTask\ThirteenthTask\obj\Debug\netcoreapp3.1\ThirteenthTask.genruntimeconfig.cache
+C:\Users\Илья\source\repos\ThirteenthTask\ThirteenthTask\obj\Debug\netcoreapp3.1\ThirteenthTask.csproj.AssemblyReference.cache
